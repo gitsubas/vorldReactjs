@@ -1,0 +1,61 @@
+
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	deleted:    src/App.css
+#	modified:   src/App.js
+#	new file:   src/Components/Header/Header.js
+#	new file:   src/Components/HeroComponents/HeroComponents.js
+#	new file:   src/Components/SmallLists/LinksItmes.js
+#	new file:   src/Components/SmallLists/SocialIcons.js
+#	new file:   src/Pages/HomePage.js
+#	new file:   src/Styles/base.scss
+#	new file:   src/Styles/homePage.scss
+#	new file:   src/Styles/index.scss
+#	new file:   src/Styles/layout.scss
+#	new file:   src/Styles/variable.scss
+#	new file:   src/assets/Logo/headerLogo.png
+#	new file:   src/assets/background/HeroImg.png
+#	new file:   src/assets/background/HeroImgoverlay.png
+#	new file:   src/hoc/CurrentWidht.js
+#	deleted:    src/index.css
+#	modified:   src/index.js
+#	deleted:    src/logo.svg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
