@@ -20,25 +20,25 @@ function HeroComponents (props) {
     const currentWidth = useCurrentWidth()
 
     const style = {
-        height: currentWidth / 2.2,
-        maxHeight: 900,
+        height: "100vh",
+        maxHeight: "100vh",
         backgroundImage: 'url('+ HeroImgOverlay +'), url('+ HeroImg +')',
         backgroundPosition: "center",
         backgroundRepeat: "repeat, no-repeat",
         backgroundSize: "100% 100%, cover",
 
-        '@media (max-width: 1200px)': {
-            height: currentWidth / 2
-        },
-        '@media (max-width: 991px)': {
-          height: currentWidth / 1.5
-        },
-        '@media (max-width: 768px)': {
-            height: currentWidth / 1.2
-        },
-        '@media (max-width: 481px)': {
-            height: currentWidth * 1.5
-        },
+        // '@media (max-width: 1200px)': {
+        //     height: currentWidth / 2
+        // },
+        // '@media (max-width: 991px)': {
+        //   height: currentWidth / 1.5
+        // },
+        // '@media (max-width: 768px)': {
+        //     height: currentWidth / 1.2
+        // },
+        // '@media (max-width: 481px)': {
+        //     height: currentWidth * 1.5
+        // },
       };
 
 
