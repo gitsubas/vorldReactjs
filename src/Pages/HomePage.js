@@ -4,6 +4,7 @@ import HeroComponents from "../Components/HeroComponents/HeroComponents";
 
 import WhyVorld from "../Components/PageContents/WhyVorld";
 import Recreate from "../Components/PageContents/Recreate";
+import LaptopSection from "../Components/PageContents/LaptopSection";
 
 function HomePage(props) {
 
@@ -19,6 +20,7 @@ function HomePage(props) {
 
                 <WhyVorld />
                 <Recreate />
+                <LaptopSection />
 
             </div>
         </div>

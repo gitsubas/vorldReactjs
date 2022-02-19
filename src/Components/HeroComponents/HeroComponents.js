@@ -88,15 +88,19 @@ function HeroComponents (props) {
                         <h3>
                             Community owned virtual world powered by Blockchain and Artificial Intelligence
                         </h3>
+                    </div> 
+                    <div className="btn-section">
+                            <button className="btn-large">Buy Vorld Token</button>
                     </div>
                 </div>
-
 
                 {goToBottom}
                 {bottom}
 
 
             </div>
+
+            
 
 
         </div>
